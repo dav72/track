@@ -1,17 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dav72/track.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# WelCome To tracking Package Project
+# USPS Package Tools Project
 ## Header 2
 ### Header 3
 
@@ -33,10 +21,13 @@ Enter USPS Tracking Number and get USPS Tracking Status .Authorized US Post offi
 At https://canada-post.tech/ canadapost tracking |At https://trackingi.com/canada-post/ Canada Post Tracking  - Canada post Tracking service free and fast to track your packages @ [Canada Post Tracking](https://canada-post.tech/)
 
 
-### Jekyll Themes
+## USPS Shipping calculator development for calcuating prices for domestic need
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dav72/track.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Deciding the expense of Packages locally in United States, is presently with Simple Way. Basically fill in the spaces, and let our online number cruncher make sense of your postage with USPS Cost delivering adding machine at [USPS shipping calculator](https://usps-track.us/price-calculator.html). 
 
-### Support or Contact
+Simply enter the fundamental data, and our online number cruncher consequently decides the expense of transportation any bundle abroad for you. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also customr can calculate usps delivery time with our new [USPS Price calculator](https://usps-track.us/price-calculator.html)
+Presently business clients can ascertain the expense of transportation… on the web! Simply give the essential data , and the mini-computer wraps up .
+
+
