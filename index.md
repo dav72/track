@@ -1,18 +1,6 @@
 
 # USPS Package Tools Project
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ## Our Tracking Packages Conducted
 
 Usps tracking-  Enter USPS Tracking Number and get USPS Tracking Status .Authorized US Post office tracking : [USPS Tracking](https://usps-track.us/)
